@@ -6,6 +6,7 @@
 ###########################
 import sys
 
+
 def main():
     if len(sys.argv) == 3:
         print int(sys.argv[1]) + int(sys.argv[2])
